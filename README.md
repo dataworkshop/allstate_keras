@@ -6,3 +6,5 @@ cd allstate_keras.git
 unzip train.csv.zip
 jupyter notebook
 ```
+
+Note: To run the code you can use this [environment](https://github.com/dataworkshop/environment)
